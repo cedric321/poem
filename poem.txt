@@ -2,3 +2,8 @@ Sessel
 Sofa
 Tisch
 toll!
+
+rot 
+grün
+blau
+satt!
